@@ -13,5 +13,10 @@ namespace LuckyNumber
 		{
 			InitializeComponent();
 		}
-	}
+
+        private void klikbtn_Clicked(object sender, EventArgs e)
+        {
+
+        }
+    }
 }
